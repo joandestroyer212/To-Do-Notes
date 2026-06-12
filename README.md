@@ -21,10 +21,10 @@ A full-stack CRUD application built with:
 ## Installation
 
 Backend:
-npm install
-npm run dev
+- npm install
+- npm run dev
 
 Frontend:
-cd frontend
-npm install
-npm run dev
+- cd frontend
+- npm install
+- npm run dev
